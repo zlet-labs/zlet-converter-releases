@@ -6,7 +6,7 @@
 
 A privacy-first Windows desktop converter for turning documents into usable Markdown without mandatory accounts, cloud uploads, or LLM APIs.
 
-[Download the latest release](https://github.com/zlet-labs/zlet-converter-releases/releases/latest)
+[**Download latest release**](https://github.com/zlet-labs/zlet-converter-releases/releases/latest) · [Release history](https://github.com/zlet-labs/zlet-converter-releases/releases)
 
 </div>
 
@@ -21,9 +21,13 @@ A privacy-first Windows desktop converter for turning documents into usable Mark
 
 ## Public Beta
 
-The first Public Beta is currently in preparation. The releases on this repository include earlier builds and will also host the upcoming `v0.1.0-beta.1` release when it passes packaged Windows acceptance.
+The first Public Beta, **v0.1.0-beta.1**, is currently in preparation. The releases on this repository include earlier builds and will also host the upcoming `v0.1.0-beta.1` release when it passes packaged Windows acceptance.
 
-The Public Beta focuses on the core desktop workflow: add documents, convert them locally, understand the result or limitation, and open or export the generated Markdown.
+The Public Beta focuses on one core desktop workflow:
+
+**Add documents → Convert → Review result or limitation → Open or export Markdown**
+
+Earlier builds remain available as historical PRE-ALPHA releases.
 
 ## Downloads
 
