@@ -2,43 +2,82 @@
 
 # Zlet Converter
 
-**Documents in. Clean Markdown out. Locally.**
+### Documents in. Clean Markdown out. Locally.
 
-A privacy-first Windows desktop converter for turning documents into usable Markdown without mandatory accounts, cloud uploads, or LLM APIs.
+A privacy-first Windows desktop app for turning documents into usable Markdown.
 
-[**Download latest release**](https://github.com/zlet-labs/zlet-converter-releases/releases/latest) · [Release history](https://github.com/zlet-labs/zlet-converter-releases/releases)
+<br>
+
+![Windows](https://img.shields.io/badge/Windows-x64-2f81f7?style=flat-square)
+![Local first](https://img.shields.io/badge/processing-local--first-238636?style=flat-square)
+![Price](https://img.shields.io/badge/price-free-238636?style=flat-square)
+![Beta](https://img.shields.io/badge/v0.1.0--beta.1-in_preparation-d29922?style=flat-square)
+
+<br>
+
+[**Download latest release**](https://github.com/zlet-labs/zlet-converter-releases/releases/latest) · [All releases](https://github.com/zlet-labs/zlet-converter-releases/releases)
 
 </div>
 
-## Why Zlet Converter?
+---
 
-- **Local-first.** Your documents stay on your machine for supported local conversion routes.
-- **Built for Markdown quality.** The goal is usable structure, not merely extracting a wall of text.
-- **Format-aware.** Conversion can use different routes when that produces better results.
-- **Batch-friendly.** Designed for converting multiple documents and exporting results without repetitive manual work.
-- **Honest diagnostics.** Unsupported or degraded capabilities should be explicit instead of disguised as successful conversion.
-- **Free.** Zlet Converter is a free product. There is no Zlet Converter Pro edition.
+## Why Zlet Converter
+
+Most document converters can extract text. Zlet Converter is being built around a stricter goal: **produce Markdown that remains useful after conversion**.
+
+| | |
+| --- | --- |
+| 🔒 **Local-first** | Supported conversion routes process documents on your machine. |
+| 🧱 **Structure matters** | Headings, lists, tables, links, and reading order matter more than dumping text into a file. |
+| 🧭 **Format-aware** | Different document types can use different conversion routes when that improves results. |
+| 📚 **Batch-friendly** | Convert multiple documents and export results without repetitive manual work. |
+| ⚠️ **Honest diagnostics** | Unsupported or degraded capabilities should be explicit instead of looking like success. |
+| 🆓 **Free** | Zlet Converter is free. There is no paid Pro edition. |
 
 ## Public Beta
 
-The first Public Beta, **v0.1.0-beta.1**, is currently in preparation. The releases on this repository include earlier builds and will also host the upcoming `v0.1.0-beta.1` release when it passes packaged Windows acceptance.
+The first Public Beta, **v0.1.0-beta.1**, is in preparation.
 
-The Public Beta focuses on one core desktop workflow:
+The core workflow is deliberately simple:
 
-**Add documents → Convert → Review result or limitation → Open or export Markdown**
+> **Add documents → Convert → Review result or limitation → Open or export Markdown**
 
-Earlier builds remain available as historical PRE-ALPHA releases.
+Earlier builds remain available as historical **PRE-ALPHA** releases.
 
 ## Downloads
 
-Use the **Releases** section for official Zlet Converter builds, release notes, and downloadable artifacts. Where checksums are published, use them to verify downloaded files.
+Official builds are published in [**GitHub Releases**](https://github.com/zlet-labs/zlet-converter-releases/releases).
 
-> This repository is the public distribution home for Zlet Converter. Product development and source code are maintained separately.
+Depending on the release, downloads may include:
 
-## Product principles
+- Windows x64 installer
+- Portable ZIP
+- SHA-256 checksums
+- Release notes and known limitations
 
-Zlet Converter is intentionally narrow: document conversion to high-quality Markdown, plus legacy Office modernization where appropriate. It does not require a cloud service or an LLM API to function, and it avoids silently claiming support where a conversion route cannot provide defensible output.
+> **Early-build note:** installers may be unsigned, so Windows can display an Unknown publisher or SmartScreen warning. Check the notes for the specific release before installing.
+
+## Product scope
+
+Zlet Converter is intentionally narrow:
+
+1. **Documents → high-quality Markdown**
+2. **Legacy Office → modern Office formats**, where an appropriate local route is available
+
+No mandatory account. No mandatory cloud service. No mandatory LLM API.
+
+## Privacy & development
+
+This repository is the **public distribution home** for Zlet Converter. Product development, source code, tests, and engineering infrastructure are maintained separately.
+
+The product is designed around local processing, reproducible behavior, explicit diagnostics, and preservation of useful document structure.
 
 ---
 
-<sub>Built by Zlet Labs.</sub>
+<div align="center">
+
+Built by **[Zlet Labs](https://github.com/zlet-labs)**
+
+<sub>Local-first software. Evidence over claims.</sub>
+
+</div>
