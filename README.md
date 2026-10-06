@@ -40,7 +40,9 @@ The first Public Beta, **v0.1.0-beta.1**, is in preparation.
 
 The core workflow is deliberately simple:
 
-> **Add documents → Convert → Review result or limitation → Open or export Markdown**
+> **Add documents → Convert → Check quality → Review → Open / Export**
+
+Conversion status and **Basic Quality Check** are separate signals. A completed conversion can still require review, so the Beta keeps quality visible without pretending every successful conversion is automatically a good result.
 
 Earlier builds remain available as historical **PRE-ALPHA** releases.
 
