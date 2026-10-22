@@ -1,4 +1,4 @@
-ZLET CONVERTER FREE PERSONAL LICENSE
+﻿ZLET CONVERTER FREE PERSONAL LICENSE
 Version 1.0 — effective for Zlet Converter v0.1.0-beta.1 and later Free releases
 Copyright (c) 2026 Zlet Labs. All rights reserved in original Zlet Labs components.
 
