@@ -1,0 +1,125 @@
+﻿ZLET CONVERTER FREE PERSONAL LICENSE
+Version 1.0 — effective for Zlet Converter v0.1.0-beta.1 and later Free releases
+Copyright (c) 2026 Zlet Labs. All rights reserved in original Zlet Labs components.
+
+ENGLISH
+
+1. Permission to use
+Zlet Labs grants an individual a limited, non-exclusive, non-transferable
+permission to install and run the Free edition of Zlet Converter solely for
+their own personal, non-commercial purposes. The Free edition is supplied
+without a license key, online activation, mandatory account, time limit or
+artificial conversion quota. This permission does not transfer ownership of
+the Software or any rights in its source code.
+
+Commercial, professional, organizational, employer-related, customer-facing
+or revenue-generating use is NOT licensed under Free, even if no fee is charged
+for a particular conversion. Such use requires a separate written permission
+or an applicable commercial (Pro) license when available.
+
+2. Restrictions for Zlet Labs-owned software and its parts
+Unless Zlet Labs gives prior written permission, you must not:
+(a) distribute, publish, upload, mirror, share, sell, rent, sublicense,
+    transfer, rebrand, or redistribute the Software, whether in whole or in
+    part, including its installers, executables, DLLs, original resources,
+    proprietary modules and code;
+(b) modify, adapt, translate, patch, alter, or prepare derivative versions of
+    the Software or its Zlet Labs-owned components;
+(c) extract, copy for reuse, publish, disclose, incorporate into another
+    project or product, or otherwise commercially exploit Zlet Labs-owned
+    source code, proprietary implementation or any substantial part of it;
+(d) remove or falsify copyright, ownership or license notices; or
+(e) reverse engineer, decompile, disassemble or circumvent protective
+    mechanisms except insofar as applicable law expressly permits that
+    conduct despite a contractual restriction.
+
+Copies necessarily made to install and run the Software as permitted by
+Section 1, and backup copies that cannot legally be prohibited, are allowed.
+The restrictions above do not prohibit acts protected by mandatory law.
+
+3. Third-party components and historical permissions
+Third-party components, including separately licensed open-source libraries,
+remain subject to their respective licenses and notices, supplied in
+THIRD_PARTY_NOTICES.md and the licenses/ directory. This license does NOT
+replace or narrow rights granted by those third-party licenses.
+
+Source code or earlier versions previously supplied under the MIT license
+retain the rights already granted for those historical materials (the original
+MIT notice is preserved in licenses/HISTORICAL_ZLET_MIT.txt). This
+license governs the newly distributed Free edition and Zlet Labs-owned
+proprietary components; it does not retroactively revoke MIT permissions.
+
+4. Your documents and outputs
+Your rights in documents you process and the Markdown or other output
+generated from them are not transferred to Zlet Labs by this license. This
+license controls the program and its Zlet Labs-owned components, not your
+own documents or conversion results.
+
+5. Termination and warranty
+Permission to use the Free edition ends if you materially violate these
+terms, subject to applicable law. To the extent permitted by law, the Software
+is supplied "AS IS", without warranties. Nothing here excludes mandatory
+consumer rights or other protections that cannot legally be waived.
+
+РУССКИЙ
+
+1. Разрешённое использование
+Zlet Labs предоставляет физическому лицу ограниченное, неисключительное,
+непередаваемое право установить и запускать бесплатную редакцию Zlet
+Converter Free исключительно в личных некоммерческих целях. Free работает
+без лицензионного ключа, онлайн-активации, обязательной регистрации,
+ограничения срока и искусственных лимитов на конвертацию. Право собственности
+на программу и её исходный код пользователю не передаётся.
+
+Коммерческое, профессиональное, организационное использование, использование
+в интересах работодателя или заказчика, а также деятельность, приносящая
+доход, по лицензии Free НЕ разрешены, даже если за отдельную конвертацию
+плата не взимается. Для этого необходимо отдельное письменное разрешение
+правообладателя либо применимая коммерческая лицензия (Pro), когда она
+будет доступна.
+
+2. Запреты в отношении программы и принадлежащих Zlet Labs частей
+Без предварительного письменного разрешения Zlet Labs запрещается:
+(a) распространять, публиковать, загружать на сторонние сайты, размещать
+    зеркала, передавать другим лицам, продавать, сдавать в аренду,
+    сублицензировать, переименовывать или перепаковывать программу целиком
+    либо частично, включая установщики, EXE, DLL, оригинальные ресурсы,
+    собственные модули Zlet Labs и код;
+(b) изменять, адаптировать, переводить, исправлять или перерабатывать
+    программу либо принадлежащие Zlet Labs части, создавать производные версии;
+(c) извлекать, копировать для повторного использования, раскрывать,
+    публиковать, включать в другие проекты/продукты либо коммерчески
+    использовать принадлежащий Zlet Labs исходный код, собственную реализацию
+    и существенные части программы;
+(d) удалять или искажать сведения об авторском праве и лицензии;
+(e) выполнять обратную разработку, декомпиляцию, дизассемблирование или обход
+    технической защиты, кроме случаев, когда такие действия прямо разрешены
+    применимым законом независимо от договорного запрета.
+
+Копии, технически необходимые для разрешённой установки и работы, а также
+резервные копии, которые нельзя законно запретить, допускаются. Настоящие
+условия не отменяют обязательные законные исключения.
+
+3. Сторонние компоненты и исторические права
+Сторонние компоненты, в том числе библиотеки с открытым исходным кодом,
+подчиняются собственным лицензиям и уведомлениям из THIRD_PARTY_NOTICES.md
+и каталога licenses/. Настоящая лицензия НЕ отменяет и не ограничивает
+права, предоставленные лицензиями таких компонентов.
+
+Исходный код и предыдущие версии, ранее предоставленные по MIT, сохраняют
+уже предоставленные для этих исторических материалов права (оригинальный
+текст лицензии находится в licenses/HISTORICAL_ZLET_MIT.txt). Данная
+лицензия действует для новой редакции Free и проприетарных компонентов,
+принадлежащих Zlet Labs; старые разрешения MIT задним числом не отзываются.
+
+4. Ваши документы и результаты
+Права на обрабатываемые документы и созданные из них Markdown-файлы или
+другие результаты не переходят к Zlet Labs в силу этой лицензии. Лицензия
+регулирует использование программы и принадлежащих Zlet Labs компонентов,
+а не пользовательских документов и результатов конвертации.
+
+5. Прекращение прав и отказ от гарантий
+При существенном нарушении условий право использования Free прекращается с
+учётом применимого законодательства. В пределах, разрешённых законом,
+программа предоставляется «КАК ЕСТЬ», без гарантий. Обязательные права
+потребителей и иные неотменяемые законом гарантии сохраняются.
