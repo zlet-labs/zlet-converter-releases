@@ -11,11 +11,11 @@ A privacy-first Windows desktop app for turning documents into usable Markdown.
 ![Windows](https://img.shields.io/badge/Windows-x64-2f81f7?style=flat-square)
 ![Local first](https://img.shields.io/badge/processing-local--first-238636?style=flat-square)
 ![License](https://img.shields.io/badge/license-Free%20Personal%20Use-238636?style=flat-square)
-![Beta](https://img.shields.io/badge/v0.1.0--beta.1-in_preparation-d29922?style=flat-square)
+![Public Beta](https://img.shields.io/badge/v0.1.0--beta.1-available-238636?style=flat-square)
 
 <br>
 
-[**Download latest release**](https://github.com/zlet-labs/zlet-converter-releases/releases/latest) · [All releases](https://github.com/zlet-labs/zlet-converter-releases/releases)
+[**Download Public Beta.1**](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.0-beta.1) · [All releases](https://github.com/zlet-labs/zlet-converter-releases/releases)
 
 </div>
 
@@ -32,11 +32,11 @@ Most document converters can extract text. Zlet Converter is being built around 
 | 🧭 **Format-aware** | Different document types can use different conversion routes when that improves results. |
 | 📚 **Batch-friendly** | Convert multiple documents and export results without repetitive manual work. |
 | ⚠️ **Honest diagnostics** | Unsupported or degraded capabilities should be explicit instead of looking like success. |
-| 🆓 **Free Beta.1** | Free for personal, non-commercial use only. A separate Pro edition is planned for commercial use; pricing and release date are not yet set. |
+| 🆓 **Free Beta.1** | Free for personal, non-commercial use only; no account or activation. Commercial use requires written permission. |
 
 ## Public Beta
 
-The first Public Beta, **v0.1.0-beta.1**, is in preparation.
+The first Public Beta, **v0.1.0-beta.1**, is available for Windows x64. [Download Public Beta.1](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.0-beta.1).
 
 **Starting with Beta.1, Free is licensed for personal, non-commercial use only.** Redistribution, repackaging, modifications and reuse of Zlet Labs-owned modules/source require written permission. No activation or account is needed. Read the [Free Personal License](LICENSE_FREE_BETA1.txt) before installing or using Beta.1. This limitation does not revoke rights to historical MIT-licensed releases or independently licensed third-party code.
 
