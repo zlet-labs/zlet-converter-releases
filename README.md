@@ -14,6 +14,23 @@ Zlet Converter is a Windows desktop app for local batch document conversion, wit
 
 Windows x64 · Public Beta · Free for personal, non-commercial use. No account required. The installer is unsigned; Windows may show an unknown-publisher warning. The .NET runtime is included.
 
+## Zlet Converter 0.1.1 in action
+
+![Zlet Converter 0.1.1 file queue](assets/screenshots/convert-light.png)
+
+*The workspace before converting a sample TXT file.*
+
+<details>
+<summary>Original/result comparison and history</summary>
+
+![Original and Markdown result](assets/screenshots/compare-light.png)
+
+![Completed conversion history](assets/screenshots/history-light.png)
+
+</details>
+
+These captures come from the released 0.1.1 build during an automated headless UI run with an actual sample TXT conversion. They are not mockups or evidence of full native GUI acceptance.
+
 ## Why Zlet Converter
 
 - **Local-first:** supported conversions process documents on your computer; no mandatory cloud service or LLM API.
