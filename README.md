@@ -14,6 +14,14 @@ Zlet Converter is a Windows desktop app for local batch document conversion, wit
 
 Windows x64 · Public Beta · Free for personal, non-commercial use. No account required. The installer is unsigned; Windows may show an unknown-publisher warning. The .NET runtime is included.
 
+## What's new in 0.1.2
+
+- Updated .NET 11, Avalonia 12.2, Rust, AngleSharp and Markdig; PDF inspector retained at 1.20.0.
+- Windows/Linux CI passed. Output bytes and conversion statuses on the 450-file corpus match 0.1.1.
+- Installer, portable, folder/ZIP export, cancellation, retry and offline modern-format conversion were checked.
+
+Limitations: numeric quality diagnostics are not directly comparable between versions. Full DPI, independent semantic and Office-absent modernization acceptance remain incomplete. Use compact filters in small/high-DPI windows.
+
 ## Zlet Converter 0.1.1 in action
 
 [![Zlet Converter batch conversion demo](assets/demo/demo-poster.webp)](https://zlet.app/converter)
