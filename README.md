@@ -6,11 +6,11 @@
 
 Zlet Converter is a Windows desktop app for local batch document conversion, with visible conversion status, Basic Quality Check and original/result comparison.
 
-![Version](https://img.shields.io/badge/version-0.1.1-2563eb?style=flat-square) ![Status](https://img.shields.io/badge/status-Public%20Beta-64748b?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%20x64-64748b?style=flat-square) ![License](https://img.shields.io/badge/license-Free%20Personal%20Use-64748b?style=flat-square)
+![Version](https://img.shields.io/badge/version-0.1.2-2563eb?style=flat-square) ![Status](https://img.shields.io/badge/status-Public%20Beta-64748b?style=flat-square) ![Platform](https://img.shields.io/badge/platform-Windows%20x64-64748b?style=flat-square) ![License](https://img.shields.io/badge/license-Free%20Personal%20Use-64748b?style=flat-square)
 
-## Download 0.1.1
+## Download 0.1.2
 
-[**Windows installer (.exe)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.1/ZletConverter-v0.1.1-Setup-win-x64.exe) · [**Portable (.zip)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.1/ZletConverter-0.1.1-win-x64.zip) · [Release notes](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.1) · [SHA-256](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.1/SHA256SUMS.txt)
+[**Windows installer (.exe)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.2/ZletConverter-v0.1.2-Setup-win-x64.exe) · [**Portable (.zip)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.2/ZletConverter-0.1.2-win-x64.zip) · [Release notes](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.2) · [SHA-256](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.2/SHA256SUMS.txt)
 
 Windows x64 · Public Beta · Free for personal, non-commercial use. No account required. The installer is unsigned; Windows may show an unknown-publisher warning. The .NET runtime is included.
 
@@ -74,7 +74,7 @@ Read the [quality methodology and release QA results](https://zlet.app/converter
 
 ## Release information
 
-- [What's new and known limitations in 0.1.1](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.1)
+- [What's new and known limitations in 0.1.2](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.2)
 - [All versions](https://github.com/zlet-labs/zlet-converter-releases/releases)
 - [Report a problem or request a feature](https://github.com/zlet-labs/zlet-converter-releases/issues)
 - [Free Personal License](LICENSE_FREE_BETA1.txt)
