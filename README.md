@@ -16,20 +16,24 @@ Windows x64 · Public Beta · Free for personal, non-commercial use. No account 
 
 ## Zlet Converter 0.1.1 in action
 
-![Zlet Converter 0.1.1 file queue](assets/screenshots/convert-light.png)
+[![Zlet Converter batch conversion demo](assets/demo/demo-poster.webp)](https://zlet.app/converter)
 
-*The workspace before converting a sample TXT file.*
+[**Watch the 32.5-second demo**](https://zlet.app/converter) · [Silent MP4](assets/demo/demo-silent.mp4)
+
+![Five converted sample files](assets/screenshots/convert-native.png)
 
 <details>
-<summary>Original/result comparison and history</summary>
+<summary>Comparison, quality checks and history</summary>
 
-![Original and Markdown result](assets/screenshots/compare-light.png)
+![Extracted XLSX data and Markdown](assets/screenshots/compare-native.png)
 
-![Completed conversion history](assets/screenshots/history-light.png)
+![Basic quality check](assets/screenshots/quality-native.png)
+
+![Completed batch history](assets/screenshots/history-native.png)
 
 </details>
 
-These captures come from the released 0.1.1 build during an automated headless UI run with an actual sample TXT conversion. They are not mockups or evidence of full native GUI acceptance.
+Real native Windows recording of the published 0.1.1 build with five generated sample files. Conversion success does not guarantee result quality. [Capture provenance](assets/screenshots/README.md).
 
 ## Why Zlet Converter
 

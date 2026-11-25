@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a reproducible problem with Zlet Converter.
+title: "[Bug]: "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Converter version and Windows version
+      placeholder: "0.1.1, Windows 11 x64"
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: Include the input format, conversion route and expected versus actual result. Do not upload private documents.
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics
+      description: Redacted status, quality message or a minimal synthetic example, if available.

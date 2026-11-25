@@ -16,20 +16,24 @@ Windows x64 · Публичная бета · Бесплатно для личн
 
 ## Интерфейс 0.1.1
 
-![Очередь файлов в Zlet Converter 0.1.1](assets/screenshots/convert-light.png)
+[![Демонстрация Zlet Converter — пакетная конвертация](assets/demo/demo-poster.webp)](https://zlet.app/ru/converter)
 
-*Рабочая область перед конвертацией тестового TXT.*
+[**Смотреть демо на сайте (32,5 сек.)**](https://zlet.app/ru/converter) · [MP4 без звука](assets/demo/demo-silent.mp4)
+
+![Пять конвертированных демонстрационных файлов](assets/screenshots/convert-native.png)
 
 <details>
-<summary>Сравнение результата и история</summary>
+<summary>Сравнение, проверка качества и история</summary>
 
-![Оригинал и результат Markdown](assets/screenshots/compare-light.png)
+![Извлечённые данные XLSX и Markdown](assets/screenshots/compare-native.png)
 
-![История завершённой конвертации](assets/screenshots/history-light.png)
+![Базовая проверка качества](assets/screenshots/quality-native.png)
+
+![История завершённого пакета](assets/screenshots/history-native.png)
 
 </details>
 
-Кадры получены из опубликованной сборки 0.1.1 в автоматизированном headless UI-прогоне с реальной конвертацией тестового TXT. Это не макеты и не доказательство полной нативной GUI-приёмки.
+Запись реальной работы опубликованной Windows-сборки 0.1.1 с пятью демонстрационными файлами. Успех конвертации не гарантирует качество каждого результата. [Происхождение кадров](assets/screenshots/README.md).
 
 ## Возможности
 

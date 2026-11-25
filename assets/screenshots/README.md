@@ -10,3 +10,8 @@ These PNGs are unmodified headless Avalonia captures from the real UI probe, usi
 - history-light.png: actual completed folder conversion recorded in local history.
 
 The probe also verified exact TXT/Markdown byte content, ZIP entry contents and unchanged source bytes. This is a limited sample, not a format fidelity claim.
+
+
+## Native demo captures (2026-11-25)
+
+The four *-native.png images are crops from the owner-approved 32.5-second V5 silent demo of the installed Windows 0.1.1 application. Five generated fixtures: PDF, TXT, DOCX, XLSX, HTML. Five converted outputs; Basic Quality Check has three OK, one Needs review and one no final verdict. No customer content. Captured at 9.0 (Convert), 12.2 (Compare, XLSX), 19.6 (Quality), 25.0 (History) seconds. Older headless captures above are retained for existing links. The video does not constitute a general fidelity benchmark.
