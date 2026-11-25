@@ -6,11 +6,11 @@
 
 Zlet Converter — приложение для Windows: пакетная локальная конвертация документов, явные статусы, базовая проверка качества и сравнение оригинала с результатом.
 
-![Версия](https://img.shields.io/badge/version-0.1.1-2563eb?style=flat-square) ![Статус](https://img.shields.io/badge/status-Public%20Beta-64748b?style=flat-square) ![Платформа](https://img.shields.io/badge/platform-Windows%20x64-64748b?style=flat-square) ![Лицензия](https://img.shields.io/badge/license-Free%20Personal%20Use-64748b?style=flat-square)
+![Версия](https://img.shields.io/badge/version-0.1.2-2563eb?style=flat-square) ![Статус](https://img.shields.io/badge/status-Public%20Beta-64748b?style=flat-square) ![Платформа](https://img.shields.io/badge/platform-Windows%20x64-64748b?style=flat-square) ![Лицензия](https://img.shields.io/badge/license-Free%20Personal%20Use-64748b?style=flat-square)
 
-## Скачать 0.1.1
+## Скачать 0.1.2
 
-[**Установщик Windows (.exe)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.1/ZletConverter-v0.1.1-Setup-win-x64.exe) · [**Portable (.zip)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.1/ZletConverter-0.1.1-win-x64.zip) · [Описание релиза](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.1) · [SHA-256](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.1/SHA256SUMS.txt)
+[**Установщик Windows (.exe)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.2/ZletConverter-v0.1.2-Setup-win-x64.exe) · [**Portable (.zip)**](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.2/ZletConverter-0.1.2-win-x64.zip) · [Описание релиза](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.2) · [SHA-256](https://github.com/zlet-labs/zlet-converter-releases/releases/download/v0.1.2/SHA256SUMS.txt)
 
 Windows x64 · Публичная бета · Бесплатно для личного некоммерческого использования. Аккаунт не требуется. Установщик не подписан цифровой подписью: Windows может показать предупреждение о неизвестном издателе. Среда .NET включена.
 
@@ -74,7 +74,7 @@ Windows x64 · Публичная бета · Бесплатно для личн
 
 ## Информация о релизе
 
-- [Изменения и известные ограничения 0.1.1](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.1)
+- [Изменения и известные ограничения 0.1.2](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.2)
 - [Все версии](https://github.com/zlet-labs/zlet-converter-releases/releases)
 - [Сообщить о проблеме или предложить функцию](https://github.com/zlet-labs/zlet-converter-releases/issues)
 - [Лицензия Free Personal](LICENSE_FREE_BETA1.txt)
