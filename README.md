@@ -70,6 +70,8 @@ Conversion success is not a guarantee of semantic fidelity. Check important tabl
 
 Documents are processed locally; no mandatory registration, cloud backend or LLM API. The product does not automatically replace unavailable local Office routes with cloud conversion.
 
+Read the [quality methodology and release QA results](https://zlet.app/converter/quality).
+
 ## Release information
 
 - [What's new and known limitations in 0.1.1](https://github.com/zlet-labs/zlet-converter-releases/releases/tag/v0.1.1)
